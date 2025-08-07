@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vynoQ+/k9vE=",
+  "success": true,
+  "projectFilePath": "/Users/mmerritt/Library/CloudStorage/OneDrive-Personal/Code/AI/BlackHoleSim/BlackHoleSimulator.csproj",
+  "expectedPackageFiles": [
+    "/Users/mmerritt/.nuget/packages/raylib-cs/6.0.0/raylib-cs.6.0.0.nupkg.sha512",
+    "/Users/mmerritt/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/mmerritt/.nuget/packages/microsoft.netcore.app.ref/8.0.18/microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "/Users/mmerritt/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.18/microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "/Users/mmerritt/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.18/microsoft.netcore.app.host.osx-arm64.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
